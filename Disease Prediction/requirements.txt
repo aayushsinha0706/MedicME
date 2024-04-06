@@ -1,0 +1,5 @@
+python-dotenv
+streamlit
+scikit-learn
+streamlit_option_menu
+google.generativeai
